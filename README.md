@@ -1,10 +1,10 @@
 # DriverWN722NV2-3
-###############################################################################################################################################
-Repositorio que contiene los Drivers de la Interfaz Tp-Link WN722N V2 y V3 para Kali Linux 2023.1
-Los pasos descritos a continuación se realizaron con la placa Wireless WN722N V3.2 
-sobre un Kali Linux 2023.1 Instalado el 18 de Marzo del 2023
-###############################################################################################################################################
-Pasos elaborados por @jcaitf
+####################################################################################################
+#Repositorio que contiene los Drivers de la Interfaz Tp-Link WN722N V2 y V3 para Kali Linux 2023.1
+#Los pasos descritos a continuación se realizaron con la placa Wireless WN722N V3.2 
+#sobre un Kali Linux 2023.1 Instalado el 18 de Marzo del 2023
+####################################################################################################
+#Pasos elaborados por @jcaitf
 
 Antes que nada como administrador (root) de kali ejecute los siguientes comandos y realices los reboot cuando se indiquen....
 
