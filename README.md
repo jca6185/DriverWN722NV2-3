@@ -23,4 +23,16 @@ Antes que nada como administrador (root) de kali ejecute los siguientes comandos
 9. cd DriverWN722NV2-3
 10. make
 11. make install
-12. 
+12. reboot
+
+
+ENTRAR EN MODO MONITOR:
+1. iwconfig
+2. airmon-ng check kill
+3. airmon-ng start wlan0
+4. iwconfig
+
+NOTA:
+La interfaz en modo monitor queda con el mismo nombre wlan0
+
+
