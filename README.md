@@ -6,7 +6,7 @@
 ####################################################################################################
 #Pasos elaborados por @jcaitf
 
-Antes que nada como administrador (root) de kali ejecute los siguientes comandos y realices los reboot cuando se indiquen....
+Antes que nada como administrador (root) de kali ejecute los siguientes comandos y realice los reboot cuando se indiquen....
 
 1. apt update
 2. apt upgrade
